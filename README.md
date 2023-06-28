@@ -1,7 +1,7 @@
 <h1 align="center">Market</h1>
 
 <h2> 📄 Description</h2>
-Simple program for registering, editing and deleting, searching and listing products and for registering sales
+The project is a simple program to simulate in the terminal a market  for regist, edit, delet, search, list products and regist sales.
 
 
 
